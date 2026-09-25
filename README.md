@@ -10,4 +10,4 @@ usage:
 
 python parser.py path/to/profile.html --out profile.json
 
-<!-- checked: 2026-09-24 -->
+<!-- checked: 2026-09-25 -->
